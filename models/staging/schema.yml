@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: climate_data_for_bi
+    database: GLOBAL_WEATHER__CLIMATE_DATA_FOR_BI   # the shared DB
+    schema:   STANDARD_TILE                         # the share’s schema
+    tables:
+      - name: forecast_day
+      - name: history_day
+      - name: climatology_day
