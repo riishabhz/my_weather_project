@@ -2,8 +2,9 @@ version: 2
 
 models:
   - name: fact_weather_observations
-    description:Fact table containing enriched weather data. Grain: One row per forecast date per postal code. 
-      This table contains weather measurements like temperature, humidity, precipitation, etc., 
+    description: |
+      Fact table containing enriched weather data. Grain: One row per forecast date per postal code.
+      This table contains weather measurements like temperature, humidity, precipitation, etc.,
       aggregated at the day level for each postal code.
     columns:
       - name: forecast_date
