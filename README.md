@@ -14,6 +14,8 @@ Try running the following commands:
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
 
+**Linkedin Article ** https://www.linkedin.com/pulse/how-i-built-robust-data-pipeline-using-snowflake-visual-bhardwaj-ncj0e/?trackingId=sPxb6awVTUqVMlR3NAaT2w%3D%3D
+
 Business Use Case: This weather data pipeline enables businesses to make informed decisions by providing accurate, timely weather forecasts and historical climate insights at a granular (postal code) level. For example:
 
 Retailers can optimize inventory and staffing based on upcoming weather conditions.
